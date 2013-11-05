@@ -1,0 +1,13 @@
+{
+  "name": "bcentral-crawler.js",
+  "version": "0.0.1",
+  "description": "tbd",
+  "main": "app.js",
+  "private": true,
+  "author": "Daniel Meneses <daplay@gmail.com>",
+  "dependencies": {
+      "cheerio": "0.12.3",
+      "request": "2.27.0",
+      "underscore": "1.5.2"
+  }
+}
